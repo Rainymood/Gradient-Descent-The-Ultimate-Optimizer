@@ -17,9 +17,15 @@ code might be slightly different than that presented in the paper.
 ## Set up 
 
 ```sh
-git clone ... 
+git clone https://github.com/Rainymood/Gradient-Descent-The-Ultimate-Optimizer 
 virtualenv -p python3 venv
 source venv/bin/act
 pip install -r requirements.txt
 python main.py
+```
+
+When you are done you can exit the virtualenv with 
+
+```shell
+deactivate
 ```
