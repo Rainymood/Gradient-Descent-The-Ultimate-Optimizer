@@ -19,7 +19,7 @@ code might be slightly different than that presented in the paper.
 ```sh
 git clone https://github.com/Rainymood/Gradient-Descent-The-Ultimate-Optimizer 
 virtualenv -p python3 venv
-source venv/bin/act
+source venv/bin/activate
 pip install -r requirements.txt
 python main.py
 ```
