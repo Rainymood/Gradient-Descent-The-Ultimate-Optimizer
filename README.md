@@ -2,7 +2,8 @@
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
-**LET ME BE ABSOLUTELY CLEAR: THIS IS NOT MY WORK.**
+| ⚠️ WARNING: THIS IS NOT MY WORK ⚠️ |
+| --- |
 
 This repository contains the paper and code to the paper [Gradient Descent:
 The Ultimate Optimizer](https://arxiv.org/abs/1909.13371).
