@@ -148,7 +148,7 @@ def make_adam_stack(height, top=0.0000001):
 def stack_test():
     for top in np.linspace(-7, 3, 20):
         for height in range(6):
-            print("height␣=", height, "top␣=", top)
+            print("height =", height, "to p=", top)
             opt = make_sgd_stack(height, 10 ** top)
             run(
                 opt,
